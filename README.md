@@ -1,10 +1,6 @@
 # unity-scene-merging-guide
 Just a quick guide on how to set up scene merging for unity.
 
-## Setting up merging tool
-
-
-
 ## Setting up git
 
 1. Should be located in C:\Program Files\Unity2018.2.6f1\Editor\Data\Tools\UnityYamlMerge.exe (or something similar).
